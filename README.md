@@ -1,12 +1,13 @@
+
 ## Konichiwa!! Adarsh Sadanand Here
 
-### Who am I:  A Student, Developer and Noob.
+### Eternally a Student, mostly a Developer and part time Gamer.
 
-- 😄 Pronouns: He/Him
-- 🌱 I’m currently learning things that are interesting 🤣
-- 🥅 2021 plans: Work on more projects 
-- 🔭 I’m currently an Engineering Student
-- ⚡ Fun fact: I love reading Stories and Cycling  
+- 😄 Happy to help and learn.
+- 🌱 I’m currently learning about stuff that are I felt are nteresting 🤣
+- 🥅 2024 plans: Couple self projets to be completed 
+- 🔭 Currently a Product Engineer at a Fintech.
+- ⚡ Fun fact: I love reading all kind of Stories and Cycling  
   
   
 <h3>- 🛠️ Languages and Technology :</h3>
@@ -29,7 +30,6 @@
 <br />  
 <h3>Connect with me: </h3>
 <p>
-    <a style="padding: 10pt; height: 50pt; width: 500pt;" href="https://twitter.com/AdarshSadanand" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="Adarsh Sadanand | Twitter" width="30" height="30"/> </a> 
     <a style="padding: 10pt; height: 50pt; width: 500pt;" href="https://www.linkedin.com/in/adarsh-sadanand-01b128204/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="Adarsh Sadanand | LinkedIn" width="30" height="30"/> </a> 
 </p>
 <br />
