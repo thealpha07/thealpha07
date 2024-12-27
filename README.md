@@ -4,11 +4,11 @@
 ### Eternally a Student, mostly a Developer and part time Gamer.
 
 - 😄 Happy to help and learn.
-- 🌱 I’m currently learning about stuff that are I felt are nteresting 🤣
-- 🥅 2024 plans: Couple self projets to be completed 
-- 🔭 Currently a Product Engineer at a Fintech.
-- ⚡ Fun fact: I love reading all kind of Stories and Cycling  
-  
+- 🌱 I’m currently learning about stuff that are I felt are interesting 🤣
+- 🥅 2025 Goals: Network and Learn a language, Ideally Japanese.
+- 🔭 Currently a Product Engineer with multiple Hobbies
+- ⚡ Neurodivergent Mess mostly but gets Work done.
+- 🐱‍🏍 Check my Blog out: www.adarshsadanand.in
   
 <h3>- 🛠️ Languages and Technology :</h3>
 <p>
