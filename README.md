@@ -8,7 +8,7 @@
 - 🥅 2025 Goals: Network and Learn a language, Ideally Japanese.
 - 🔭 Currently a Product Engineer with multiple Hobbies
 - ⚡ Neurodivergent Mess mostly but gets Work done.
-- 🐱‍🏍 Check my Blog out: www.adarshsadanand.in
+- 🐱‍🏍 Check my Blog out: [www.adarshsadanand.in](https://adarshsadanand.carrd.co/)
   
 <h3>- 🛠️ Languages and Technology :</h3>
 <p>
