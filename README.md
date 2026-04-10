@@ -1,14 +1,13 @@
 
 ## Konichiwa!! Adarsh Sadanand Here
 
-### Eternally a Student, mostly a Developer and part time Gamer.
+### Eternally a Student, mostly a Developer and part time Napper.
 
-- 😄 Happy to help and learn.
+- 😄 Happy to help and Nap.
 - 🌱 I’m currently learning about stuff that are I felt are interesting 🤣
-- 🥅 2025 Goals: Network and Learn a language, Ideally Japanese.
-- 🔭 Currently a Product Engineer with multiple Hobbies
+- 🥅 2026 Goals: Make new friends, learn a language, read 10 new books.
+- 🔭 Currently pursuing Masters at MSRIT, Bangalore.
 - ⚡ Neurodivergent Mess mostly but gets Work done.
-- 🐱‍🏍 Check my Blog out: [www.adarshsadanand.in](https://adarshsadanand.carrd.co/)
   
 <h3>- 🛠️ Languages and Technology :</h3>
 <p>
@@ -30,7 +29,7 @@
 <br />  
 <h3>Connect with me: </h3>
 <p>
-    <a style="padding: 10pt; height: 50pt; width: 500pt;" href="https://www.linkedin.com/in/adarsh-sadanand-01b128204/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="Adarsh Sadanand | LinkedIn" width="30" height="30"/> </a> 
+    <a style="padding: 10pt; height: 50pt; width: 500pt;" href="https://www.linkedin.com/in/adarsh-sadanand/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="Adarsh Sadanand | LinkedIn" width="30" height="30"/> </a> 
 </p>
 <br />
 
