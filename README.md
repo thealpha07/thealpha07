@@ -24,9 +24,6 @@
     <a style="padding: 10pt; height: 50pt; width: 500pt;" href="https://www.github.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a>
     
 </p>
-<br />
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=thealpha07&&show_icons=true&title_color=f39e40&icon_color=bb2acf&text_color=f1f2f6&bg_color=151515" alt="thealpha07" />    
-<br />  
 <h3>Connect with me: </h3>
 <p>
     <a style="padding: 10pt; height: 50pt; width: 500pt;" href="https://www.linkedin.com/in/adarsh-sadanand/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="Adarsh Sadanand | LinkedIn" width="30" height="30"/> </a> 
