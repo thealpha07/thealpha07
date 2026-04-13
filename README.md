@@ -1,13 +1,13 @@
 
 ## Konichiwa!! Adarsh Sadanand Here
 
-### Eternally a Student, mostly a Developer and part time Napper.
+### Eternally a Student, mostly a Developer and part time Dungeons and Dragons.
 
 - 😄 Happy to help and Nap.
 - 🌱 I’m currently learning about stuff that are I felt are interesting 🤣
 - 🥅 2026 Goals: Make new friends, learn a language, read 10 new books.
-- 🔭 Currently pursuing Masters at MSRIT, Bangalore.
-- ⚡ Neurodivergent Mess mostly but gets Work done.
+- 🔭 Currently pursuing Masters in Computer Science, Bangalore.
+- ⚡ Neurodivergent mess everyday but always gets work done.
   
 <h3>- 🛠️ Languages and Technology :</h3>
 <p>
