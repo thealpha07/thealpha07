@@ -1,7 +1,7 @@
 
 ## Konichiwa!! Adarsh Sadanand Here
 
-### Eternally a Student, mostly a Developer and part time Dungeons and Dragons.
+### Eternally a Student, mostly a Developer and partially down the research rabbit hole.
 
 - 😄 Happy to help and Nap.
 - 🌱 I’m currently learning about stuff that are I felt are interesting 🤣
