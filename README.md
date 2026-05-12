@@ -4,7 +4,7 @@
 ### Eternally a Student, mostly a Developer and partially down the research rabbit hole.
 
 - 😄 Happy to help and Nap.
-- 🌱 I’m currently learning about stuff that are I felt are interesting 🤣
+- 🌱 I’m currently learning about stuff that I felt were interesting during hyperfocus 🤣
 - 🥅 2026 Goals: Make new friends, learn a language, read 10 new books.
 - 🔭 Currently pursuing Masters in Computer Science, Bangalore.
 - ⚡ Neurodivergent mess everyday but always gets work done.
